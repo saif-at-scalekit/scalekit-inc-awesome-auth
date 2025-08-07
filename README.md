@@ -31,6 +31,8 @@ A selection of platforms offering authentication and user management services:
 
 - **[Keycloak](https://www.keycloak.org/)**: An open-source identity and access management solution that supports SSO, social login, and federated identity brokering, suitable for applications and services.
 
+- **[Supabase](https://supabase.com/auth)**: Fully open source auth running on plain PostgreSQL. Choose hosted by Supabase, or self-hosted. Can run as standalone identity solution, or integrated with Supabase's PostgreSQL for Row Level Security.
+
 ## Libraries
 
 A collection of libraries to assist in implementing authentication and authorization:
