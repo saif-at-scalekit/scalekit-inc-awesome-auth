@@ -33,6 +33,8 @@ A selection of platforms offering authentication and user management services:
 
 - **[Supabase](https://supabase.com/auth)**: Fully open source auth running on plain PostgreSQL. Choose hosted by Supabase, or self-hosted. Can run as standalone identity solution, or integrated with Supabase's PostgreSQL for Row Level Security.
 
+- **[Scalekit](https://scalekit.com/)**: Auth stack for B2B AI apps. Drop-in SSO, SCIM, Agent Auth, and MCP authentication for AI-powered applications.
+
 ## Libraries
 
 A collection of libraries to assist in implementing authentication and authorization:
