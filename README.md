@@ -31,6 +31,7 @@ A selection of platforms offering authentication and user management services:
 
 - **[Keycloak](https://www.keycloak.org/)**: An open-source identity and access management solution that supports SSO, social login, and federated identity brokering, suitable for applications and services.
 
+- **[Scalekit](https://scalekit.com/)**: Enterprise SSO platform with SOC 2 certification supporting SAML, OIDC, SCIM, and OAuth 2.1. Includes OAuth token vault for AI agents (Agent Auth) and MCP server authorization.
 - **[Supabase](https://supabase.com/auth)**: Fully open source auth running on plain PostgreSQL. Choose hosted by Supabase, or self-hosted. Can run as standalone identity solution, or integrated with Supabase's PostgreSQL for Row Level Security.
 
 ## Libraries
